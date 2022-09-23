@@ -1,3 +1,5 @@
+![Screenshot](deep.png)
+
 # Task description
 1. Create a recurrent neural network in TensorFlow to predict the operating mode of a
 wind turbine based on the two time series from the sensors. Before any
